@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package student_w22_fri;
 
-/**
- *
- * @author lenhu
- */
+package student_w22_fri;
 public class Student {
    private String studentId;
    private String studentName;
@@ -15,7 +7,7 @@ public class Student {
     public String getStudentId() {
         return studentId;
     }
-
+//heello
     public String getStudentName() {
         return studentName;
     }

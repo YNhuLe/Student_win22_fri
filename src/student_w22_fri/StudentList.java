@@ -1,13 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package student_w22_fri;
 
-/**
- *
- * @author lenhu
- */
 public class StudentList {
     public static void main(String[] args){
      Student[] studentList = new Student[3];
