@@ -1,4 +1,7 @@
-
+/*
+Author: Jenny Le
+Date: Jan 28th 2022
+*/
 package student_w22_fri;
 public class Student {
    private String studentId;
