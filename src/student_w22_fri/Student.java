@@ -6,6 +6,7 @@ package student_w22_fri;
 public class Student {
    private String studentId;
    private String studentName;
+   
 //get: 
     public String getStudentId() {
         return studentId;
